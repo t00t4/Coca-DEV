@@ -5,7 +5,7 @@
 -  💞️ I’m looking to collaborate on hacking projects, CTF challenges, and cybersecurity endeavors.
 -  📫 How to reach me: try hacking my social media... just kidding!
 
--Let's make the digital world a safer place, one hack at a time! 😄
+Let's make the digital world a safer place, one hack at a time! 😄
 
 <!---
 Coca-DEV/Coca-DEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
